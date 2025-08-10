@@ -1,7 +1,7 @@
 # Fábrica de Testes — Entrega Completa
 
 ## Conteúdo
-- **Gestão da Execução (Mapa Mental)**: `planning/test_plan_mindmap.md` (Mermaid) e `planning/test_plan.mm` (FreeMind).
+- **Gestão da Execução (Mapa Mental)**: `planning/test_plan.mm` (FreeMind).
 - **Testes de API (Cypress + AJV)**: `cypress/e2e/api/` com **10 cenários** e **validação de schema**.
 - **Testes de Front-end (Cypress)**: `cypress/e2e/frontend/` com **10 cenários** para `the-internet.herokuapp.com`.
 - **Pipeline de Dados (CSV + validação de schema + 10 cenários)**: `data-pipeline/` (Node + Jest).
