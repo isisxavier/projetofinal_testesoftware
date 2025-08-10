@@ -21,5 +21,5 @@
    npm i
    npm test
    ```
-4. **Teste de Carga**: abra o arquivo `.jmx` no JMeter e execute. Relatórios podem ser gerados via “Summary Report”/“Aggregate Report”.
+4. **Teste de Carga**: abra o arquivo `.jmx` no JMeter e execute. Relatórios podem ser gerados via “Summary Report”/“Aggregate Report”..
 
