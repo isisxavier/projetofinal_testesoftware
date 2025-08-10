@@ -5,7 +5,7 @@
 - Ísis Xavier  
 - Carlos Torres  
 - Petrônio Pereira da Silva  
-- Paulo  
+- Paulo Azevedo
 
 ---
 
