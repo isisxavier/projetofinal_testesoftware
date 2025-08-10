@@ -1,0 +1,13 @@
+{
+  "name": "data-pipeline-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --runInBand --verbose"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.6"
+  }
+}
